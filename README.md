@@ -46,7 +46,7 @@ ___
 [![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008//simulacion-sistema-impresion-de-imagenes)
 
 
-## *Habilidades*
+# *Habilidades*
 ![react](https://img.shields.io/static/v1?message=react&logo=react&labelColor=white&color=blue&logoColor=blue&label=+&style=for-the-badge)
 ![python](https://img.shields.io/static/v1?message=python&logo=python&labelColor=f9ca24&color=blue&logoColor=blue&label=+&style=for-the-badge) 
 ![javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&labelColor=f9ca24&color=f9ca24&logoColor=white&label=+&style=for-the-badge)
