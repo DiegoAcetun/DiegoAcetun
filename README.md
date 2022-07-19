@@ -1,8 +1,8 @@
-### *Soy estudiante de Ingeniería en Sistemas en la Uiversidad de San Carlos, he desarrollado aplicaciones web  y de escritorio*
+### *👨‍🎓 Soy estudiante de Ingeniería en Sistemas en la Uiversidad de San Carlos, he desarrollado aplicaciones 🌐web  y de 🖥️escritorio*
 ___
 # *Algunos proyectos que he realizado*
 
-## *Desarrollo Web*
+## *🌐Desarrollo Web🌐*
 
 ### *Sitio web personal desarrollado utilizando react*
 [![alt](https://img.shields.io/static/v1?message=Aplicacion&logo=react&labelColor=white&color=blue&logoColor=blue&label=+&style=for-the-badge)](https://diego-008.github.io/my-web-site/)
@@ -16,7 +16,7 @@ ___
 
 [![buscador](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008/movie-app)
 ___
-## *Aplicaciones de escritorio*
+## *🖥️Aplicaciones de escritorio🖥️*
 
 ### *Generador de imágenes estilo pixel art*
 #### *Aplicación de escritorio desarrollada en python usando tkinter y desarrrollando un analizador sintático*
