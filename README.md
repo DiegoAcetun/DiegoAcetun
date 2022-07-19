@@ -5,6 +5,8 @@ ___
 
 [Habilidades](#habilidades)
 
+[Contacto](#contacto)
+
 # *Algunos proyectos que he realizado*
 
 ## *🌐Desarrollo Web🌐*
@@ -53,3 +55,7 @@ ___
 ![nodejs](https://img.shields.io/static/v1?message=nodejs&logo=node.js&labelColor=white&color=gray&logoColor=green&label=+&style=for-the-badge)
 ![bootstrap](https://img.shields.io/static/v1?message=bootstrap&logo=bootstrap&labelColor=white&color=6c5ce7&logoColor=6c5ce7&label=+&style=for-the-badge) 
 ![git](https://img.shields.io/static/v1?message=git&logo=git&labelColor=white&color=red&logoColor=red&label=+&style=for-the-badge) 
+
+# *Contacto*
+![gmail](https://img.shields.io/static/v1?message=acetundiego@gmail.com&logo=gmail&labelColor=white&color=red&logoColor=red&label=+&styl=flat-square)
+![telegram](https://img.shields.io/static/v1?message=@DiegoAcetun&logo=telegram&labelColor=white&color=white&logoColor=white&label=+&styl=flat-square)
