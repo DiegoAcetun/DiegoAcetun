@@ -1,5 +1,10 @@
 ### *👨‍🎓 Soy estudiante de Ingeniería en Sistemas en la Uiversidad de San Carlos, he desarrollado aplicaciones 🌐web  y de 🖥️escritorio*
 ___
+
+[Mis proyectos](#algunos-proyectos-que-he-realizado)
+
+[Habilidades](#habilidades)
+
 # *Algunos proyectos que he realizado*
 
 ## *🌐Desarrollo Web🌐*
@@ -19,23 +24,32 @@ ___
 ## *🖥️Aplicaciones de escritorio🖥️*
 
 ### *Generador de imágenes estilo pixel art*
-#### *Aplicación de escritorio desarrollada en python usando tkinter y desarrrollando un analizador sintático*
+#### *Aplicación desarrollada en python usando tkinter y desarrrollando un analizador sintático*
 
 [![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=python&labelColor=f9ca24&color=blue&logoColor=blue&label=+&style=for-the-badge)](https://github.com/diego-008/GENERADOR-IMG-PIXELART)
 
 ### *Control de productos*
-#### *Aplicación de escritorio desarrollada en python usando tkinter y guardando los datos en una base de datos mysql*
+#### *Aplicación desarrollada en python usando tkinter y guardando los datos en una base de datos mysql*
 
 [![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=python&labelColor=f9ca24&color=blue&logoColor=blue&label=+&style=for-the-badge)](https://github.com/diego-008/ControlDeProductos)
 
 ### *Reproductor de música*
-#### *Aplicación de escritorio desarrollada en python usando tkinter y usando estructuras de datos (listas enlazadas, doblemente enlazadas, circulares)*
+#### *Aplicación desarrollada en python usando tkinter y usando las siguientes estructuras de datos: listas enlazadas, doblemente enlazadas, circulares*
 
 [![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=python&labelColor=f9ca24&color=blue&logoColor=blue&label=+&style=for-the-badge)](https://github.com/diego-008//ReproductorDeMusicaPython)
 
+___
+## *💻Aplicaciones de consola💻*
+### *Simulador Sistema de impresión de imágenes*
+#### *Aplicación desarrollada en java, haciendo uso de las siguientes estrcuturas de datos: listas enlazadas, colas, pilas.*
+
+[![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008//simulacion-sistema-impresion-de-imagenes)
 
 
-
-
-
-<!-- [![alt](https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=for-the-badge)](https://google.com) -->
+## *Habilidades*
+![react](https://img.shields.io/static/v1?message=react&logo=react&labelColor=white&color=blue&logoColor=blue&label=+&style=for-the-badge)
+![python](https://img.shields.io/static/v1?message=python&logo=python&labelColor=f9ca24&color=blue&logoColor=blue&label=+&style=for-the-badge) 
+![javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&labelColor=f9ca24&color=f9ca24&logoColor=white&label=+&style=for-the-badge)
+![nodejs](https://img.shields.io/static/v1?message=nodejs&logo=node.js&labelColor=white&color=gray&logoColor=green&label=+&style=for-the-badge)
+![bootstrap](https://img.shields.io/static/v1?message=bootstrap&logo=bootstrap&labelColor=white&color=6c5ce7&logoColor=6c5ce7&label=+&style=for-the-badge) 
+![git](https://img.shields.io/static/v1?message=git&logo=git&labelColor=white&color=red&logoColor=red&label=+&style=for-the-badge) 
