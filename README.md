@@ -57,5 +57,6 @@ ___
 ![git](https://img.shields.io/static/v1?message=git&logo=git&labelColor=white&color=red&logoColor=red&label=+&style=for-the-badge) 
 
 # *Contacto*
-![gmail](https://img.shields.io/static/v1?message=acetundiego@gmail.com&logo=gmail&labelColor=white&color=red&logoColor=red&label=+&styl=flat-square)
+<a href="mailto:acetundiego@gmail.com">Aquí el texto que quieras</a>
+[![gmail](https://img.shields.io/static/v1?message=acetundiego@gmail.com&logo=gmail&labelColor=white&color=red&logoColor=red&label=+&styl=flat-square)](mailto:acetundiego@gmail.com)
 ![telegram](https://img.shields.io/static/v1?message=@DiegoAcetun&logo=telegram&labelColor=white&color=white&logoColor=white&label=+&styl=flat-square)
