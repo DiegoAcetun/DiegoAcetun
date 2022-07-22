@@ -12,7 +12,7 @@ ___
 ## *🌐Desarrollo Web🌐*
 
 ### *Sitio web personal desarrollado utilizando react*
-[![alt](https://img.shields.io/static/v1?message=Aplicacion&logo=react&labelColor=white&color=blue&logoColor=blue&label=+&style=for-the-badge)](https://diego-008.github.io/my-web-site/)
+[![alt](https://img.shields.io/static/v1?message=SitioWeb&logo=react&labelColor=white&color=blue&logoColor=blue&label=+&style=for-the-badge)](https://diego-008.github.io/my-web-site/)
 
 [![buscador](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008/my-web-site)
 
