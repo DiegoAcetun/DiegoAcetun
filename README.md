@@ -28,17 +28,17 @@ ___
 ### *Generador de imágenes estilo pixel art*
 #### *Aplicación desarrollada en python usando tkinter y desarrrollando un analizador sintático*
 
-[![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=python&labelColor=f9ca24&color=blue&logoColor=blue&label=+&style=for-the-badge)](https://github.com/diego-008/GENERADOR-IMG-PIXELART)
+[![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008/GENERADOR-IMG-PIXELART)
 
 ### *Control de productos*
 #### *Aplicación desarrollada en python usando tkinter y guardando los datos en una base de datos mysql*
 
-[![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=python&labelColor=f9ca24&color=blue&logoColor=blue&label=+&style=for-the-badge)](https://github.com/diego-008/ControlDeProductos)
+[![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008/ControlDeProductos)
 
 ### *Reproductor de música*
 #### *Aplicación desarrollada en python usando tkinter y usando las siguientes estructuras de datos: listas enlazadas, doblemente enlazadas, circulares*
 
-[![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=python&labelColor=f9ca24&color=blue&logoColor=blue&label=+&style=for-the-badge)](https://github.com/diego-008//ReproductorDeMusicaPython)
+[![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008//ReproductorDeMusicaPython)
 
 ___
 ## *💻Aplicaciones de consola💻*
