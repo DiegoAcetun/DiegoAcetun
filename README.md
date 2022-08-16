@@ -53,6 +53,7 @@ ___
 ![python](https://img.shields.io/static/v1?message=python&logo=python&labelColor=f9ca24&color=blue&logoColor=blue&label=+&style=for-the-badge) 
 ![javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&labelColor=f9ca24&color=f9ca24&logoColor=white&label=+&style=for-the-badge)
 ![nodejs](https://img.shields.io/static/v1?message=nodejs&logo=node.js&labelColor=white&color=gray&logoColor=green&label=+&style=for-the-badge)
+![tailwind](https://img.shields.io/static/v1?message=tailwind&logo=tailwindcss&labelColor=white&color=3498DB&logoColor=3498DB&label=+&style=for-the-badge)
 ![bootstrap](https://img.shields.io/static/v1?message=bootstrap&logo=bootstrap&labelColor=white&color=6c5ce7&logoColor=6c5ce7&label=+&style=for-the-badge) 
 ![git](https://img.shields.io/static/v1?message=git&logo=git&labelColor=white&color=red&logoColor=red&label=+&style=for-the-badge) 
 
