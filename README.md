@@ -1,63 +1,21 @@
-### *👨‍🎓 Soy estudiante de Ingeniería en Sistemas en la Uiversidad de San Carlos, he desarrollado aplicaciones 🌐web  y de 🖥️escritorio*
-___
+<h1 align="center">Hi 👋, I'm Diego</h1>
+<h3 align="center">A passionate web developer from Guatemala</h3>
 
-[Mis proyectos](#algunos-proyectos-que-he-realizado)
+- 🔭 I’m currently working on **developing web applications**
 
-[Habilidades](#habilidades)
+- 🌱 I’m currently learning **GraphQl, Svelte**
 
-[Contacto](#contacto)
+- 👨‍💻 All of my projects are available at [https://diegoacetun.github.io/my-web-site/](https://diegoacetun.github.io/my-web-site/)
 
-# *Algunos proyectos que he realizado*
+- 📫 How to reach me **acetundiego@gmail.com**
 
-## *🌐Desarrollo Web🌐*
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/d_acetun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_acetun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diego-acetun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-acetun" height="30" width="40" /></a>
+</p>
 
-### *Sitio web personal desarrollado utilizando react*
-[![alt](https://img.shields.io/static/v1?message=SitioWeb&logo=react&labelColor=white&color=blue&logoColor=blue&label=+&style=for-the-badge)](https://diego-008.github.io/my-web-site/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[![buscador](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008/my-web-site)
-
-### *Buscador de películas*
-#### *Desarrollado consumiendo [OMDb API](https://www.omdbapi.com/)*
-
-[![alt](https://img.shields.io/static/v1?message=Aplicacion&logo=react&labelColor=white&color=blue&logoColor=blue&label=+&style=for-the-badge)](https://diego-acetun-movie-app.netlify.app/)
-
-[![buscador](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008/movie-app)
-___
-## *🖥️Aplicaciones de escritorio🖥️*
-
-### *Generador de imágenes estilo pixel art*
-#### *Aplicación desarrollada en python usando tkinter y desarrrollando un analizador sintático*
-
-[![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008/GENERADOR-IMG-PIXELART)
-
-### *Control de productos*
-#### *Aplicación desarrollada en python usando tkinter y guardando los datos en una base de datos mysql*
-
-[![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008/ControlDeProductos)
-
-### *Reproductor de música*
-#### *Aplicación desarrollada en python usando tkinter y usando las siguientes estructuras de datos: listas enlazadas, doblemente enlazadas, circulares*
-
-[![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008//ReproductorDeMusicaPython)
-
-___
-## *💻Aplicaciones de consola💻*
-### *Simulador Sistema de impresión de imágenes*
-#### *Aplicación desarrollada en java, haciendo uso de las siguientes estrcuturas de datos: listas enlazadas, colas, pilas.*
-
-[![pixelArt](https://img.shields.io/static/v1?message=Repositorio&logo=github&labelColor=black&color=white&logoColor=white&label=+&style=for-the-badge)](https://github.com/diego-008//simulacion-sistema-impresion-de-imagenes)
-
-
-# *Habilidades*
-![react](https://img.shields.io/static/v1?message=react&logo=react&labelColor=white&color=blue&logoColor=blue&label=+&style=for-the-badge)
-![python](https://img.shields.io/static/v1?message=python&logo=python&labelColor=f9ca24&color=blue&logoColor=blue&label=+&style=for-the-badge) 
-![javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&labelColor=f9ca24&color=f9ca24&logoColor=white&label=+&style=for-the-badge)
-![nodejs](https://img.shields.io/static/v1?message=nodejs&logo=node.js&labelColor=white&color=gray&logoColor=green&label=+&style=for-the-badge)
-![tailwind](https://img.shields.io/static/v1?message=tailwind&logo=tailwindcss&labelColor=white&color=3498DB&logoColor=3498DB&label=+&style=for-the-badge)
-![bootstrap](https://img.shields.io/static/v1?message=bootstrap&logo=bootstrap&labelColor=white&color=6c5ce7&logoColor=6c5ce7&label=+&style=for-the-badge) 
-![git](https://img.shields.io/static/v1?message=git&logo=git&labelColor=white&color=red&logoColor=red&label=+&style=for-the-badge) 
-
-# *Contacto*
-
-[![gmail](https://img.shields.io/static/v1?message=acetundiego@gmail.com&logo=gmail&labelColor=white&color=red&logoColor=red&label=+&styl=flat-square)](mailto:acetundiego@gmail.com)
-[![telegram](https://img.shields.io/static/v1?message=@DiegoAcetun&logo=telegram&labelColor=white&color=white&logoColor=white&label=+&styl=flat-square)](https://t.me/DiegoAcetun)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoacetun&show_icons=true&locale=en&layout=compact" alt="diegoacetun" /></p>
