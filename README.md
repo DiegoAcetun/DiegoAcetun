@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego</h1>
+<h1 align="center">Hi 👋, I'm Diego Acetún</h1>
 <h3 align="center">A passionate web developer from Guatemala</h3>
 
 - 🔭 I’m currently working on **developing web applications**
