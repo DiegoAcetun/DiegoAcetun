@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **developing web applications**
 
-- 🌱 I’m currently learning **Express, NestJs, React**
+- 🌱 I’m currently learning **Express, NestJs, React, Docker**
 
 - 👨‍💻 All of my projects are available at [https://d-acetun.github.io/my-web-site/](https://d-acetun.github.io/my-web-site/)
 
